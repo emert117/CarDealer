@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CarDealer.Business\CarDealer.Business.csproj" />
+  </ItemGroup>
+
 </Project>

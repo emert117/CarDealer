@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CarDealer.DataAccess\CarDealer.DataAccess.csproj" />
     <ProjectReference Include="..\CarDealer.Entities\CarDealer.Entities.csproj" />
   </ItemGroup>
 
